@@ -1,0 +1,28 @@
+.ct1Row1 {text-align: -webkit-center;}
+.ct1Col1 h4 {margin-bottom: 0rem; font-weight: normal;}
+.ct1Col1 p {margin-bottom: 0rem;}
+.text {display: inline-block;}
+.pic {display: inline-block;}
+.pic img {vertical-align: inherit;}
+.container1 {background-color: #fafafa; padding-top: 3%; padding-bottom: 3%;}
+.container1 a:link {color: #919191;} 
+.container1 a:visited {color: #919191;}
+.container1 a:hover {color: #020254;}
+.container1 a:active {color: #a0c63f;}
+.ct1Col2 ul {padding-left: 0rem; margin-bottom: 0rem; font-size: smaller;}
+.ct1Col2 li{color: aliceblue; display: inline; list-style: none; padding: 1%;}
+
+.greenContainer{background-color: #a0c63f;}
+.greenContainer > .row1 {padding-right: 5%; padding-left: 5%;}
+.greenContainer > .row1 >.col1 {height: 20px; border-bottom-style: ridge;}
+.greenContainer > .row2 >.col2 {height: 20px;}
+
+.container2 {padding-top: 3%;}
+.ct2Col1 h4 {font-weight: normal;}
+.ct2Col1 p {font-size: small; margin-bottom: 1rem;}
+.ct2Col1 img {width: 50%; padding-bottom: 3%;}
+.ct2Col2 img {width: 25%;}
+.ct2Col2 p {font-size: small; margin-bottom: 1rem;}
+.ct2Col2 ul {font-size: small;}
+
+.ct3Col1 {padding-bottom: 3%;}
