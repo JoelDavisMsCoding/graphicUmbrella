@@ -1,4 +1,9 @@
+/*ABOUT LINK*/
+h4 {font-weight: normal;}
+h5 {font-weight: normal;}
+h6 {font-weight: normal;}
 .ct1Row1 {text-align: -webkit-center;}
+.ct1Col1 span {color: #8eb53e;}
 .ct1Col1 h4 {margin-bottom: 0rem; font-weight: normal;}
 .ct1Col1 p {margin-bottom: 0rem;}
 .text {display: inline-block;}
@@ -11,7 +16,7 @@
 .container1 a:active {color: #a0c63f;}
 .ct1Col2 {align-content: center;}
 .ct1Col2 ul {padding-left: 0rem; margin-bottom: 0rem; font-size: smaller;}
-.ct1Col2 li{color: aliceblue; display: inline; list-style: none; padding: 1%;}
+.ct1Col2 li{color: aliceblue; display: inline; list-style: none; padding: 3%;}
 
 .greenContainer{background-color: #a0c63f;}
 .greenContainer > .row1 {padding-right: 5%; padding-left: 5%;}
@@ -26,18 +31,65 @@
 .ct2Col2 p {font-size: small; margin-bottom: 1rem;}
 .ct2Col2 ul {font-size: small;}
 
+.greenBallRow {text-align: -webkit-right;}
+.colGreenBall {padding-bottom: 1%; padding-top: 1%;}
+.colGreenBall h4 {color: aliceblue; text-align-last: center; width: 25px; height: 25px; border-radius: 360px; background-color: #8eb53e;}
+
 .container3 p {font-size: smaller;}
 .ct3Col1 {padding-bottom: 3%;}
+.ct3Col2 p {text-decoration: underline;}
 .name {display: block; background-color: #ffffff; color: #969b9e; border-color: darkgrey; padding-right: 85px; margin-bottom: 15px;}
 .email {display: block; background-color: #ffffff; color: #969b9e; border-color: darkgrey; padding-right: 85px; margin-bottom: 15px;}
 .subscribe {display: block; margin-bottom: 15px; background-color: #8eb53e; color: #ffffff; margin: auto;}
+.ct3Col3 p {color: #7b9bc8;}
 
 .ct4Row1 {background-color: #202020;}
 .ct4Col1 {align-content: center;}
 .ct4Col1 ul {padding-left: 0rem; margin-bottom: 0rem; font-size: x-small;}
 .ct4Col1 li {color:#ffffff; display: inline; list-style: none; padding: 1%;}
 .ct4Col2 {text-align: -webkit-right;}
-.ct4Col2 p {color: #ffffff; padding-left: 0rem; margin-bottom: 0rem; font-size: x-small;;}
+.ct4Col2 p {color: #ffffff; padding-left: 0rem; margin-bottom: 0rem; font-size: x-small;}
 
 @media (min-width: 576px) {.ct4Col1 ul {font-size: smaller;}}
 @media (min-width: 576px) {.ct4Col2 p {font-size: smaller;}}
+
+/*HOME LINK*/
+.homeBody {background-color: #fafafa;}
+.container5 {background-color: #8eb53e;}
+.img img {inline-size: -webkit-fill-available;}
+.ct5Col2 {color: #ffffff; align-self: center;}
+.ct5Col2 h4 {font-weight: 400;}
+
+.container6 {text-align: -webkit-center; padding-top: 20px;}
+
+.container7 {background-color: #ffffff;}
+.container7 p {font-size: smaller;}
+.container7 span {color: #8eb53e;}
+.text {padding-left: inherit;}
+.ct7Col1 {text-align-last: left;}
+.ct7Col2 h6 {margin-bottom: 0rem;}
+.ct7Col3 h6 {margin-bottom: 0rem;}
+.ct7Col4 h6 {margin-bottom: 0rem;}
+.ct7Col5 h6 {margin-bottom: 0rem;}
+.video {display: inline; font-size: xx-small; background-color: #8eb53e; color: #ffffff; margin-right: 10px; border-style: none;}
+.interview {display: inline; font-size: xx-small; background-color: #8eb53e; color: #ffffff; border-style: none;}
+.graphics {display: inline; font-size: xx-small; background-color: #8eb53e; color: #ffffff; border-style: none;}
+.print {display: inline; font-size: xx-small; background-color: #8eb53e; color: #ffffff; border-style: none;}
+.audio {display: inline; font-size: xx-small; background-color: #8eb53e; color: #ffffff;margin-right: 10px; border-style: none;}
+.business {display: inline; font-size: xx-small; background-color: #8eb53e; color: #ffffff;border-style: none;}
+
+.container8 {padding-bottom: 5%; padding-top: 3%;}
+.container8 span {color:#8eb53e;}
+.ct8Col1 img {max-inline-size: -webkit-fill-available;}
+
+@media (min-width: 1200px) {.ct5Col1 {margin-left: 4%;;}}
+
+/*News*/
+.container9 {padding-top: 2%;}
+.ct9Col1 {padding-bottom: 5%}
+.sec1 {padding-top: 5%; border-bottom-style:dotted; border-color: #969b9e;}
+.sec2 {padding-top: 5%; border-bottom-style:dotted; border-color: #969b9e;}
+.sec3 {padding-top: 5%; border-bottom-style:dotted; border-color: #969b9e;}
+.sec4 {padding-top: 5%; border-bottom-style:dotted; border-color: #969b9e;}
+.inputBox {border: groove;}
+.ct9Col2 h6 {padding-top: 2%; padding-bottom: 2%; border-bottom-style:dotted; border-color: #969b9e;}
