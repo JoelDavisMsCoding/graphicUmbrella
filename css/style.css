@@ -10,6 +10,7 @@ h6 {font-weight: normal;}
 .pic {display: inline-block;}
 .pic img {vertical-align: inherit;}
 .container1 {background-color: #fafafa; padding-top: 1%; padding-bottom: 1%;}
+
 .container1 a:link {color: #919191;} 
 .container1 a:visited {color: #919191;}
 .container1 a:hover {color: #020254;}
@@ -17,6 +18,7 @@ h6 {font-weight: normal;}
 .ct1Col2 {align-content: center;}
 .ct1Col2 ul {padding-left: 0rem; margin-bottom: 0rem; font-size: smaller;}
 .ct1Col2 li{color: aliceblue; display: inline; list-style: none; padding: 3%;}
+a {text-decoration: none;}
 
 .greenContainer{background-color: #a0c63f;}
 .greenContainer > .row1 {padding-right: 5%; padding-left: 5%;}
@@ -38,8 +40,8 @@ h6 {font-weight: normal;}
 .container3 p {font-size: smaller;}
 .ct3Col1 {padding-bottom: 3%;}
 .ct3Col2 p {text-decoration: underline;}
-.name {display: block; background-color: #ffffff; color: #969b9e; border-color: darkgrey; padding-right: 85px; margin-bottom: 15px;}
-.email {display: block; background-color: #ffffff; color: #969b9e; border-color: darkgrey; padding-right: 85px; margin-bottom: 15px;}
+.name {display: block; background-color: #ffffff; color: #969b9e; border-color: darkgrey; margin-bottom: 15px;}
+.email {display: block; background-color: #ffffff; color: #969b9e; border-color: darkgrey; margin-bottom: 15px;}
 .subscribe {display: block; margin-bottom: 15px; background-color: #8eb53e; color: #ffffff; margin: auto;}
 .ct3Col3 p {color: #7b9bc8;}
 
